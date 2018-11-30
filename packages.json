@@ -1,0 +1,16 @@
+{
+    "packages": {
+        "CDN_Team/blitw-api": {
+            "0.1.0": {
+                "name": "CDN_Team/blitw-api",
+                "version": "0.1.0",
+                "type": "project",
+                "source": {
+                  "type": "git",
+                  "url": "http://git.code.oa.com/CDN_Team/blitw-api",
+                  "reference": "master"
+                }
+            }
+        }
+    }
+}
